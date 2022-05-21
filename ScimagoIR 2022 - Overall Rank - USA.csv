@@ -1,0 +1,1029 @@
+Rank;Global Rank;Institution;Country;Sector;Best Country Quartile
+1;4;Harvard University *;USA;Universities;1
+2;7;Facebook Inc, United States;USA;Companies;1
+3;8;Harvard Medical School;USA;Universities;1
+4;11;Google Inc, USA;USA;Companies;1
+5;12;U.S. Department of Health & Human Services *;USA;Health;1
+6;14;Stanford University *;USA;Universities;1
+7;17;National Institutes of Health;USA;Health;1
+8;18;Massachusetts Institute of Technology *;USA;Universities;1
+9;23;Johns Hopkins University *;USA;Universities;1
+10;26;University of Michigan, Ann Arbor *;USA;Universities;1
+11;27;American Cancer Society;USA;Health;1
+12;28;Microsoft, USA;USA;Companies;1
+13;31;University of Washington *;USA;Universities;1
+14;32;University of Pennsylvania *;USA;Universities;1
+15;36;University of California, Los Angeles *;USA;Universities;1
+16;37;Cornell University *;USA;Universities;1
+17;38;Veterans Affairs Medical Centers *;USA;Health;1
+18;40;University of California, San Diego *;USA;Universities;1
+18;40;Columbia University *;USA;Universities;1
+19;42;University of California, Berkeley *;USA;Universities;1
+20;46;Yale University *;USA;Universities;1
+21;50;University of California, San Francisco *;USA;Universities;1
+22;51;The New York Genome Center;USA;Health;1
+23;52;Howard Hughes Medical Institute *;USA;Health;1
+24;53;University of Chicago *;USA;Universities;1
+25;54;Massachusetts General Hospital;USA;Health;1
+26;56;Duke University *;USA;Universities;1
+27;58;Broad Institute of MIT and Harvard;USA;Health;1
+28;60;Northwestern University, Evanston *;USA;Universities;1
+29;61;Mayo Clinic *;USA;Health;1
+30;63;University of Wisconsin, Madison *;USA;Universities;1
+31;65;University of North Carolina, Chapel Hill *;USA;Universities;1
+32;66;Brigham and Women's Hospital;USA;Health;1
+33;68;Ionis Pharmaceuticals;USA;Companies;1
+34;69;University of Minnesota, Twin Cities *;USA;Universities;1
+35;71;New York University *;USA;Universities;1
+36;73;Ohio State University, Columbus *;USA;Universities;1
+37;77;IBM United States;USA;Companies;1
+38;80;University of Illinois at Urbana-Champaign *;USA;Universities;1
+39;86;University of Pittsburgh *;USA;Universities;1
+40;87;Johns Hopkins Medicine;USA;Health;1
+41;92;Apple Inc, USA;USA;Companies;1
+42;96;National Center for Biotechnology Information;USA;Government;1
+43;97;University of California, Davis *;USA;Universities;1
+44;100;Whitehead Institute for Biomedical Research;USA;Health;1
+45;101;Pennsylvania State University *;USA;Universities;1
+46;102;NVIDIA Corp;USA;Companies;1
+47;103;University of Florida *;USA;Universities;1
+48;106;Washington University in Saint Louis *;USA;Universities;1
+49;107;University of Texas, Austin;USA;Universities;1
+50;108;University of Southern California *;USA;Universities;1
+51;109;Dana Farber Cancer Institute ;USA;Health;1
+52;111;NEC Corporation of America;USA;Companies;1
+53;113;Memorial Sloan-Kettering Cancer Center;USA;Health;1
+54;117;Novartis Institutes for Biomedical Research, United States;USA;Companies;1
+55;120;Scripps Research Institute;USA;Health;1
+56;122;University of Maryland, Baltimore;USA;Universities;1
+56;122;Regeneron Pharmaceuticals Inc;USA;Companies;1
+57;124;University of Texas M.D. Anderson Cancer Center ;USA;Health;1
+58;125;Stanford Medicine;USA;Health;1
+59;126;Emory University *;USA;Universities;1
+60;127;University of Pennsylvania Health System;USA;Health;1
+61;129;Vanderbilt University *;USA;Universities;1
+62;132;Carnegie Mellon University *;USA;Universities;1
+63;135;Purdue University;USA;Universities;1
+64;136;Hoffmann-La Roche Ltd, United States;USA;Companies;1
+65;139;Ragon Institute of MGH, MIT and Harvard;USA;Health;1
+66;143;Yale University Health & Medicine;USA;Health;1
+67;144;Georgia Institute of Technology *;USA;Universities;1
+68;145;J. David Gladstone Institutes;USA;Health;1
+69;146;Genentech Inc;USA;Companies;1
+70;148;National Library of Medicine;USA;Health;1
+71;150;Rutgers, The State University of New Jersey;USA;Universities;1
+72;151;Harvard-MIT Division of Health Sciences and Tecnology;USA;Universities;1
+73;153;Mount Sinai Health System *;USA;Health;1
+74;155;Michigan State University;USA;Universities;1
+75;157;Boston University *;USA;Universities;1
+76;159;California Institute of Technology *;USA;Universities;1
+77;160;Weill Cornell Medicine;USA;Universities;1
+78;161;Ludwig Institute for Cancer Research *;USA;Health;1
+79;163;Wistar Institute;USA;Health;1
+80;164;National Cancer Institute;USA;Health;1
+81;166;Cold Spring Harbor Laboratory;USA;Health;1
+82;167;Columbia University Irving Medical Center;USA;Health;1
+83;170;Sarah Cannon Research Institute;USA;Health;1
+84;173;United States Department of Agriculture;USA;Government;1
+84;173;Lawrence Berkeley National Laboratory *;USA;Government;1
+85;176;Princeton University;USA;Universities;1
+85;176;Chan Zuckerberg Biohub;USA;Health;1
+86;178;Toyota Technological Institute at Chicago;USA;Universities;1
+87;181;New York Blood Center;USA;Health;1
+87;181;University of California, Irvine *;USA;Universities;1
+88;182;Foundation Medicine Inc;USA;Companies;1
+89;183;Mitsubishi Electric Research Laboratories;USA;Companies;1
+90;184;Duke Medicine;USA;Health;1
+90;184;University of Utah *;USA;Universities;1
+91;186;National Institute of Allergy and Infectious Diseases;USA;Health;1
+92;187;National Aeronautics and Space Administration *;USA;Government;1
+92;187;Icahn School of Medicine at Mount Sinai;USA;Universities;1
+93;188;Arizona State University;USA;Universities;1
+94;190;Gilead Sciences Inc, United States;USA;Companies;1
+95;196;Washington University Medical Center ;USA;Health;1
+96;197;Texas A&M University, College Station *;USA;Universities;1
+97;204;UCLA Health System;USA;Health;1
+98;205;University of Colorado, Denver *;USA;Universities;1
+99;206;UCSF Helen Diller Family Comprehensive Cancer Center;USA;Health;1
+100;207;University of Arizona *;USA;Universities;1
+101;212;Intel Corp, USA;USA;Companies;1
+102;213;Centers for Disease Control and Prevention;USA;Health;1
+103;215;Woodruff Health Sciences Center;USA;Health;1
+104;218;Qualcomm Inc, USA;USA;Companies;1
+105;219;Joint BioEnergy Institute;USA;Government;1
+105;219;Children's Hospital Boston  *;USA;Health;1
+106;220;University of Virginia *;USA;Universities;1
+107;222;Biogen Idec, USA;USA;Companies;1
+108;224;Sanford Burnham Prebys Medical Discovery Institute;USA;Health;1
+109;226;Salk Institute for Biological Studies;USA;Health;1
+110;229;NYU Langone Medical Center;USA;Health;1
+111;230;Siemens Healthineers, USA;USA;Companies;1
+111;230;Baylor College of Medicine;USA;Universities;1
+112;231;Bristol-Myers Squibb Company, United States;USA;Companies;1
+113;232;Fred Hutchinson Cancer Research Center;USA;Health;1
+114;234;UC San Diego Health System;USA;Health;1
+115;236;National Institute of Biomedical Imaging and Bioengineering;USA;Health;1
+116;240;Vanderbilt University Medical Center;USA;Health;1
+117;243;University of Texas Southwestern Medical Center ;USA;Universities;1
+118;246;University of Colorado, Boulder *;USA;Universities;1
+118;246;University of Iowa *;USA;Universities;1
+119;247;North Carolina State University;USA;Universities;1
+120;248;HP Inc, USA;USA;Companies;1
+120;248;Cleveland Clinic *;USA;Health;1
+121;252;Indiana University-Bloomington;USA;Universities;1
+122;257;University of Colorado, Anschutz Medical Campus;USA;Universities;1
+123;259;Case Western Reserve University;USA;Universities;1
+124;262;Robert H. Lurie Comprehensive Cancer Center;USA;Health;1
+124;262;University of Alabama, Birmingham *;USA;Universities;1
+125;263;Northwestern Medicine;USA;Health;1
+126;264;Boyce Thompson Institute for Plant Research;USA;Non-Profit;1
+127;266;Janssen Biotech Inc;USA;Companies;1
+128;268;Brown University;USA;Universities;1
+129;269;Doe Joint Genome Institute;USA;Government;1
+130;271;CareGroup Healthcare System *;USA;Health;1
+131;272;Pfizer Inc, United States;USA;Companies;1
+131;272;Sanofi, United States;USA;Companies;1
+131;272;University of Illinois, Chicago *;USA;Universities;1
+132;274;The Rockefeller University *;USA;Universities;1
+132;274;The Buck Institute for Research on Aging;USA;Health;1
+133;276;Alcatel-Lucent, United States;USA;Companies;1
+133;276;Celgene Corp;USA;Companies;1
+134;277;University of Michigan Health System;USA;Health;1
+134;277;University of California, Santa Barbara;USA;Universities;1
+135;278;Beth Israel Deaconess Medical Center;USA;Health;1
+136;279;Virginia Polytechnic Institute and State University;USA;Universities;1
+137;283;J. Craig Venter Institute;USA;Health;1
+138;285;University of Rochester *;USA;Universities;1
+138;285;Institute for Systems Biology;USA;Health;1
+139;286;Merck & Co Inc, United States;USA;Companies;1
+140;290;University of Colorado Cancer Center;USA;Health;1
+141;291;Institute of Electrical and Electronics Engineers, USA;USA;Non-Profit;1
+142;292;Jackson Laboratory;USA;Health;1
+143;294;University of Miami *;USA;Universities;1
+144;298;Oregon Health & Science University *;USA;Universities;1
+145;300;Morgridge Institute for Research;USA;Health;1
+146;305;University of Maryland, College Park *;USA;Universities;1
+147;310;Takeda Pharmaceuticals International Inc, USA;USA;Companies;1
+147;310;HudsonAlpha Institute for Biotechnology;USA;Non-Profit;1
+148;312;Allen Institute for Brain Science;USA;Non-Profit;1
+149;314;University of Georgia;USA;Universities;1
+150;319;Amgen, USA;USA;Companies;1
+151;320;Temple University *;USA;Universities;1
+152;324;University of Cincinnati *;USA;Universities;1
+153;325;GlaxoSmithKline, United States;USA;Companies;1
+153;325;University of Pittsburgh Health Sciences;USA;Universities;1
+154;328;National Human Genome Research Institute;USA;Health;1
+154;328;Eli Lilly and Company, United States;USA;Companies;1
+155;329;Iowa State University;USA;Universities;1
+155;329;Samsung Research America;USA;Companies;1
+156;331;AstraZeneca, United States;USA;Companies;1
+157;332;University of Massachusetts Medical School;USA;Universities;1
+157;332;Argonne National Laboratory;USA;Government;1
+158;333;Siemens AG, USA;USA;Companies;1
+158;333;Indiana University-Purdue University Indianapolis;USA;Universities;1
+159;334;University of Massachusetts, Amherst;USA;Universities;1
+160;336;St Jude Childrens Research Hospital;USA;Health;1
+161;338;City of Hope;USA;Health;1
+162;339;National Institute on Aging;USA;Health;1
+163;340;National Institute of Standards and Technology *;USA;Government;1
+163;340;University of Connecticut, Storrs *;USA;Universities;1
+164;341;Oak Ridge National Laboratory;USA;Government;1
+164;341;National Institute of Arthritis and Musculoskeletal and Skin Diseases;USA;Health;1
+165;342;Translational Genomics Research Institute;USA;Health;1
+166;346;Wayne State University;USA;Universities;1
+167;348;National Heart Lung and Blood Institute;USA;Health;1
+167;348;University of Kansas *;USA;Universities;1
+168;350;State University of New York, Buffalo;USA;Universities;1
+168;350;Boston University Medical Campus ;USA;Health;1
+169;351;Montefiore Medical Center *;USA;Health;1
+170;354;Rice University;USA;Universities;1
+171;355;State University of New York, Stony Brook *;USA;Universities;1
+172;356;Donald Danforth Plant Science Center;USA;Non-Profit;1
+173;357;University of Southern California Health Sciences Campus;USA;Health;1
+173;357;University of California, Riverside;USA;Universities;1
+174;358;University of Tennessee, Knoxville *;USA;Universities;1
+175;360;University of Kentucky *;USA;Universities;1
+176;361;University of Nebraska, Lincoln;USA;Universities;1
+177;363;Dartmouth College *;USA;Universities;1
+177;363;Boehringer Ingelheim, USA;USA;Companies;1
+178;364;Tufts University;USA;Universities;1
+178;364;University of Pittsburgh Medical Center ;USA;Health;1
+179;366;OHSU Knight Cancer Institute;USA;Health;1
+179;366;Northeastern University, USA;USA;Universities;1
+179;366;University of South Florida System *;USA;Universities;1
+180;367;Colorado State University, Fort Collins *;USA;Universities;1
+181;368;Cincinnati Children's Hospital Medical Center;USA;Health;1
+182;369;H. Lee Moffitt Cancer Center and Research Institute;USA;Health;1
+183;370;Roswell Park Cancer Institute;USA;Health;1
+184;373;Cedars-Sinai Medical Center ;USA;Health;1
+185;374;AbbVie Inc, United States;USA;Companies;1
+185;374;Children's Hospital of Philadelphia;USA;Health;1
+186;376;City University of New York *;USA;Universities;1
+186;376;Sun Health  *;USA;Health;1
+186;376;Fox Chase Cancer Center;USA;Health;1
+187;378;George Washington University *;USA;Universities;1
+188;381;University of North Carolina Health Care;USA;Health;1
+189;382;Albert Einstein College of Medicine;USA;Universities;1
+190;383;University of South Florida;USA;Universities;1
+191;384;U.S. Army *;USA;Government;1
+192;387;National Eye Institute;USA;Health;1
+193;390;Ohio State University Wexner Medical Center;USA;Health;1
+193;390;National Renewable Energy Laboratory;USA;Government;1
+193;390;National Institute of Diabetes and Digestive and Kidney Diseases;USA;Health;1
+194;391;Virginia Commonwealth University *;USA;Universities;1
+195;394;Seattle Cancer Care Alliance ;USA;Health;1
+195;394;University of Miami Health System;USA;Health;1
+196;395;US Food and Drug Administration;USA;Government;1
+197;397;Barbara Ann Karmanos Cancer Institute;USA;Health;1
+198;400;UC Davis Health System;USA;Health;1
+199;402;SLAC National Accelerator Laboratory;USA;Government;1
+199;402;Aramco Services Co, United States;USA;Companies;1
+200;405;Oregon State University;USA;Universities;1
+201;407;University of New Mexico *;USA;Universities;1
+202;409;Athinoula A Martinos Center for Biomedical Imaging;USA;Health;1
+203;410;Joslin Diabetes Center;USA;Health;1
+203;410;University of California, Santa Cruz;USA;Universities;1
+204;412;National Institute of Environmental Health Sciences;USA;Health;1
+204;412;University of Oklahoma *;USA;Universities;1
+204;412;Washington State University, Pullman *;USA;Universities;1
+205;413;University of Notre Dame;USA;Universities;1
+206;415;Emory Healthcare;USA;Health;1
+207;416;Temple Health;USA;Health;1
+207;416;National Institute of Health Clinical Center;USA;Health;1
+208;418;National Institute of Child Health and Human Development;USA;Health;1
+209;420;Oklahoma Medical Research Foundation;USA;Health;1
+209;420;University of Missouri, Columbia *;USA;Universities;1
+210;421;Pacific Northwest National Laboratory;USA;Government;1
+210;421;University of Washington Medicine ;USA;Health;1
+210;421;National Institute on Deafness and Other Communication Disorders;USA;Health;1
+211;423;National Institute of Neurological Disorders and Stroke;USA;Health;1
+212;424;Houston Methodist;USA;Health;1
+213;428;Walter Reed Army Institute of Research *;USA;Non-Profit;1
+213;428;Wake Forest University *;USA;Universities;1
+213;428;Georgetown University *;USA;Universities;1
+214;430;Center for Biologics Evaluation and Research;USA;Government;1
+215;431;University of Minnesota Health and Medicine;USA;Universities;1
+216;432;University of Texas, Health Science Center at Houston;USA;Universities;1
+217;433;University of Florida Health Science Center;USA;Health;1
+217;433;University of Delaware;USA;Universities;1
+218;434;University of Utah Health Care;USA;Health;1
+219;435;University of Texas, Dallas;USA;Universities;1
+219;435;Los Alamos National Laboratory *;USA;Government;1
+220;437;Florida State University *;USA;Universities;1
+220;437;University of Texas Medical Branch ;USA;Universities;1
+220;437;National Institute of Mental Health;USA;Health;1
+221;438;Medical University of South Carolina *;USA;Universities;1
+222;439;University of Central Florida;USA;Universities;1
+223;441;University of Rochester Medical Center;USA;Health;1
+223;441;General Electric Co, USA;USA;Companies;1
+224;442;Drexel University;USA;Universities;1
+225;444;Cardiovascular Research Foundation;USA;Health;1
+226;445;University of Houston;USA;Universities;1
+226;445;Lawrence Livermore National Laboratory *;USA;Government;1
+227;448;National Institute on Drug Abuse;USA;Health;1
+228;449;Wake Forest University Baptist Medical Center;USA;Health;1
+229;450;National Institute on Alcohol Abuse and Alcoholism;USA;Health;1
+230;451;Rutgers Cancer Institute of New Jersey;USA;Health;1
+231;452;University of Hawai'i Cancer Center;USA;Health;1
+231;452;Smithsonian Institution *;USA;Government;1
+232;457;John E. Fogarty International Center for Advanced Study in the Health Sciences;USA;Health;1
+232;457;University of Wisconsin Health;USA;Health;1
+232;457;Procter & Gamble, USA;USA;Companies;1
+233;459;SRI International;USA;Non-Profit;1
+234;460;University of South Carolina *;USA;Universities;1
+235;462;Lockheed Martin Corp *;USA;Companies;1
+236;463;National Institute of Dental and Craniofacial Research;USA;Health;1
+237;465;Cisco Systems;USA;Companies;1
+237;465;National Jewish Health;USA;Health;1
+238;466;Sandia National Laboratories, New Mexico;USA;Government;1
+239;468;University of Nebraska Medical Center;USA;Universities;1
+239;468;Texas Instruments, US;USA;Companies;1
+240;469;Jesse Brown VA Medical Center;USA;Health;1
+241;470;Thomas Jefferson University *;USA;Universities;1
+242;473;Sandia National Laboratories, California;USA;Government;1
+242;473;Marine Biological Laboratory;USA;Non-Profit;1
+243;474;The Arizona Cancer Center;USA;Health;1
+244;475;University of Cincinnati Medical Center;USA;Health;1
+244;475;University of Texas Health Science Center at San Antonio ;USA;Universities;1
+245;476;University of Iowa Health Care;USA;Health;1
+246;477;United States Geological Survey;USA;Government;1
+247;478;National Bureau of Economic Research;USA;Non-Profit;1
+248;479;National Oceanic and Atmospheric Administration;USA;Government;1
+248;479;University of Hawaii, Manoa *;USA;Universities;1
+249;480;Medical College of Wisconsin;USA;Universities;1
+249;480;GeneDx;USA;Companies;1
+250;484;Louisiana State University, Baton Rouge;USA;Universities;1
+251;485;Tennessee Valley Healthcare System;USA;Health;2
+252;486;Carnegie Institution for Science *;USA;Non-Profit;2
+252;486;Joint Quantum Institute;USA;Government;1
+253;487;Novartis Pharmaceuticals, United States;USA;Companies;1
+253;487;Brookhaven National Laboratory *;USA;Government;1
+253;487;VA Palo Alto Health Care System;USA;Health;2
+254;488;University of Kansas Medical Center;USA;Health;1
+254;488;Los Angeles Biomedical Research Institute;USA;Health;1
+255;489;Bill and Melinda Gates Foundation;USA;Non-Profit;1
+256;492;VA San Diego Healthcare System;USA;Health;2
+256;492;Texas Children's Hospital ;USA;Health;2
+257;493;Baylor Scott & White Health;USA;Health;1
+257;493;Florida International University;USA;Universities;1
+258;494;Jet Propulsion Laboratory;USA;Government;1
+259;496;San Francisco VA Medical Center;USA;Health;2
+260;501;Magee-Womens Research Institute;USA;Health;2
+260;501;West Virginia University *;USA;Universities;1
+260;501;U.S. Department of Energy *;USA;Government;1
+260;501;University of Louisville *;USA;Universities;1
+261;502;University of South Alabama Health System;USA;Health;1
+262;503;New York Presbyterian Hospital;USA;Health;2
+262;503;Auburn University;USA;Universities;1
+262;503;Center for Drug Evaluation & Research;USA;Government;1
+263;505;Wadsworth Center;USA;Health;1
+263;505;Tulane University *;USA;Universities;1
+264;506;Augusta University *;USA;Universities;2
+264;506;Kansas State University;USA;Universities;1
+264;506;University of Virginia Health System;USA;Health;1
+265;507;Rush University *;USA;Universities;1
+265;507;University of California, Irvine Healthcare;USA;Health;2
+265;507;KentuckyOne Health;USA;Health;1
+266;508;Seattle Children's Hospital;USA;Health;1
+266;508;Program for Appropriate Technology in Health USA;USA;Non-Profit;2
+267;509;Georgetown University Medical Center;USA;Health;2
+268;510;Georgia State University;USA;Universities;1
+268;510;Nationwide Children's Hospital ;USA;Health;1
+269;512;Rush University Medical Center;USA;Health;1
+269;512;University of California, Merced;USA;Universities;2
+269;512;Kaiser Permanente, Oakland *;USA;Health;1
+270;513;Stowers Institute for Medical Research;USA;Health;2
+271;514;New York State Department of Health *;USA;Health;2
+271;514;Bayer Corp, USA;USA;Companies;1
+271;514;Rensselaer Polytechnic Institute;USA;Universities;1
+272;515;Kennedy Krieger Institute;USA;Health;2
+272;515;Massachusetts Eye and Ear Infirmary ;USA;Health;1
+273;516;Tufts Medical Center;USA;Health;2
+273;516;University of Oklahoma Health Sciences Center;USA;Universities;2
+274;517;George Mason University;USA;Universities;1
+275;518;Seidman Cancer Center;USA;Health;1
+275;518;US Environmental Protection Agency;USA;Government;1
+276;519;Nathan S. Kline Institute for Psychiatric Research;USA;Health;1
+277;520;VA St Louis Health Care System;USA;Health;2
+277;520;Harvard-Smithsonian Center for Astrophysics;USA;Government;1
+278;521;University of Oregon;USA;Universities;1
+278;521;University of Vermont;USA;Universities;1
+278;521;Inova Fairfax Hospital;USA;Health;2
+279;522;VA Northeast Ohio Healthcare System;USA;Health;2
+280;523;VCU Medical Center;USA;Health;2
+280;523;The North Shore-LIJ Health System *;USA;Health;2
+281;525;University of Connecticut Health Center;USA;Universities;2
+281;525;University of Arkansas for Medical Sciences;USA;Universities;1
+282;526;Laureate Institute for Brain Research;USA;Health;1
+283;527;University of Tennessee Health Science Center;USA;Health;1
+283;527;Kaiser Permanente Research, Washington;USA;Health;1
+284;529;State University of New York, Albany;USA;Universities;1
+284;529;Simons Foundation;USA;Non-Profit;1
+284;529;Clemson University;USA;Universities;1
+285;530;California Pacific Medical Center;USA;Health;2
+286;531;South Texas Veterans Health Care System;USA;Health;2
+286;531;Virginia Mason Medical Center ;USA;Health;2
+286;531;Texas Biomedical Research Institute;USA;Health;2
+287;532;Penn State Milton S. Hershey Medical Center;USA;Health;2
+288;533;Indiana University Health;USA;Health;2
+289;534;Pennington Biomedical Research Center;USA;Health;1
+289;534;University of Mississippi *;USA;Universities;1
+290;535;Ford Motor Co, USA;USA;Companies;1
+290;535;University Hospitals of Cleveland  *;USA;Health;2
+290;535;Children’s National Health System;USA;Health;2
+291;537;Texas Tech University;USA;Universities;1
+292;539;NASA Goddard Space Flight Center;USA;Government;1
+292;539;New York State Psychiatric Institute;USA;Health;1
+293;540;Arizona Health Sciences Center University of Arizona Tucson;USA;Health;2
+293;540;Hebrew SeniorLife;USA;Health;1
+293;540;American Heart Association;USA;Non-Profit;1
+294;541;The EARLY Program Mind Research Network;USA;Non-Profit;2
+295;542;Texas A&M University, Health Science Center;USA;Universities;1
+295;542;California Department of Public Health;USA;Health;2
+296;543;Saint Louis University, Saint Louis *;USA;Universities;1
+296;543;University of Illinois, College of Medicine at Chicago;USA;Health;2
+296;543;Brigham Young University;USA;Universities;1
+297;544;University of New Mexico Health Sciences Center;USA;Health;2
+298;545;US Naval Research Laboratory;USA;Government;1
+299;547;Dow Chemical Co USA;USA;Companies;1
+299;547;Henry Ford Health System;USA;Health;2
+300;548;VA Puget Sound Health Care System;USA;Health;2
+300;548;Maine Medical Center Research Institute;USA;Health;2
+301;549;City University of New York Graduate Center;USA;Universities;1
+301;549;Utah State University *;USA;Universities;1
+301;549;Institute for Advanced Study;USA;Non-Profit;1
+301;549;Las Cumbres Observatory Global Telescope Network;USA;Non-Profit;1
+301;549;Corning, USA;USA;Companies;1
+302;550;RTI Health Solutions;USA;Companies;2
+302;550;UCSF Benioff Children's Hospital;USA;Health;2
+302;550;Johnson & Johnson, United States;USA;Companies;1
+302;550;VA Boston Healthcare System;USA;Health;2
+302;550;VA Nebraska-Western Iowa Health Care System;USA;Health;2
+303;551;Santa Fe Institute;USA;Non-Profit;2
+304;552;University of North Texas Health Science Center;USA;Health;2
+304;552;University of Texas, Arlington;USA;Universities;1
+304;552;Children's Hospital Los Angeles ;USA;Health;2
+305;553;Texas Tech University Health Sciences Center;USA;Universities;2
+305;553;McLean Hospital;USA;Health;2
+305;553;San Diego State University;USA;Universities;1
+306;554;Partners HealthCare System;USA;Health;2
+307;555;Brandeis University;USA;Universities;2
+308;556;Raytheon Co, USA;USA;Companies;1
+308;556;University of Texas, San Antonio;USA;Universities;2
+308;556;Ralph H. Johnson VA Medical Center ;USA;Health;2
+308;556;Population Council, USA;USA;Non-Profit;2
+309;557;Doheny Eye Institute;USA;Health;2
+309;557;Henry M Jackson Foundation for the Advancement of Military Medicine;USA;Health;2
+309;557;National Center for Toxicological Research;USA;Government;2
+309;557;University of Kentucky HealthCare;USA;Health;2
+310;558;University of Rhode Island;USA;Universities;2
+310;558;Children's Healthcare of Atlanta ;USA;Health;2
+311;559;Hackensack University Medical Center;USA;Health;1
+311;559;Rady Children's Hospital-San Diego;USA;Health;2
+311;559;Iowa City VA Health Care System;USA;Health;2
+312;560;James J. Peters VA Medical Center;USA;Health;2
+313;561;State University of New York at Binghamton;USA;Universities;2
+313;561;University of Arkansas, Fayetteville;USA;Universities;1
+314;562;Philadelphia VA Medical Center;USA;Health;2
+314;562;New Jersey Institute of Technology;USA;Universities;2
+314;562;University of Toledo *;USA;Universities;2
+314;562;Richard L. Roudebush VA Medical Center;USA;Health;2
+314;562;Dartmouth-Hitchcock Health Care System;USA;Health;2
+314;562;Children's Medical Center Dallas;USA;Health;2
+314;562;University of Akron;USA;Universities;1
+315;563;Harbor–UCLA Medical Center;USA;Health;2
+315;563;Atlanta VA Medical Center;USA;Health;2
+316;566;University of Nevada-Reno;USA;Universities;1
+316;566;Battelle Memorial Institute *;USA;Non-Profit;2
+316;566;VA Maryland Health Care System;USA;Health;2
+317;567;Birmingham VA Health Care System;USA;Health;2
+318;569;Uniformed Services University of the Health Sciences;USA;Universities;2
+318;569;NASA Ames Research Center;USA;Government;2
+318;569;Rhode Island Hospital ;USA;Health;2
+318;569;USF Health;USA;Universities;2
+319;570;U.S. Air Force;USA;Government;2
+320;571;George Washington The School of Medicine & Health Sciences;USA;Health;2
+321;572;Lehigh University;USA;Universities;2
+321;572;San Francisco General Hospital;USA;Health;2
+321;572;University of Chicago Medical Center ;USA;Health;2
+322;573;Boston College;USA;Universities;1
+322;573;Minnesota Department of Health;USA;Health;2
+322;573;University of Alabama, Tuscaloosa;USA;Universities;1
+323;575;US National Science Foundation *;USA;Government;2
+323;575;Montana State University, Bozeman;USA;Universities;2
+323;575;Kavli Institute for Particle Astrophysics and Cosmology;USA;Non-Profit;1
+324;576;Joint Institute for Laboratory Astrophysics;USA;Government;2
+324;576;Eastern Virginia Medical School;USA;Universities;2
+325;577;St Josephs Hospital and Medical Center ;USA;Health;2
+326;578;University of Idaho;USA;Universities;2
+326;578;Albany Medical College;USA;Universities;2
+326;578;United Nations International Children's Emergency Fund, United States;USA;Non-Profit;2
+326;578;Saint Louis University Care;USA;Health;2
+327;580;VA Pittsburgh Healthcare System;USA;Health;2
+328;581;Scripps Health;USA;Health;2
+328;581;Albany Medical Center *;USA;Health;2
+328;581;Portland VA Medical Center;USA;Health;2
+328;581;North Florida-South Georgia Veterans Health System;USA;Health;2
+329;582;University of Missouri, Kansas City;USA;Universities;2
+329;582;Donald and Barbara Zucker School of Medicine at Hofstra/Northwell;USA;Universities;2
+330;583;BJC HealthCare;USA;Health;2
+330;583;VA Greater Los Angeles Healthcare System;USA;Health;2
+330;583;University of North Carolina, Charlotte;USA;Universities;2
+330;583;EMMES Corp;USA;Companies;2
+330;583;Illinois Institute of Technology;USA;Universities;2
+330;583;University of Missouri Health Care ;USA;Health;2
+330;583;Ann & Robert H. Lurie Children s Hospital;USA;Health;2
+331;584;VA Bedford Healthcare System;USA;Health;2
+331;584;Saint Luke’s Mid America Heart Institute;USA;Health;2
+331;584;University of Toledo Medical Center;USA;Health;2
+331;584;Marshfield Clinic;USA;Health;2
+331;584;University of Wyoming;USA;Universities;2
+332;585;City University of New York, City College;USA;Universities;2
+332;585;University of Mississippi Medical Center;USA;Universities;2
+332;585;OU Medicine;USA;Health;2
+332;585;Atrium Health *;USA;Health;2
+333;586;Fenway Institute;USA;Health;2
+333;586;Harvard Pilgrim Health Care;USA;Health;1
+334;587;Oklahoma State University, Stillwater;USA;Universities;1
+334;587;Miami VA Healthcare System;USA;Health;2
+334;587;Woods Hole Oceanographic Institution;USA;Non-Profit;2
+334;587;Loyola University of Chicago *;USA;Universities;1
+335;588;Family Health International Estados Unidos;USA;Non-Profit;2
+335;588;ExxonMobil, USA;USA;Companies;1
+336;589;University of Montana, Missoula;USA;Universities;2
+337;590;Geisinger Medical System;USA;Health;2
+337;590;University of Maryland, Baltimore County;USA;Universities;2
+337;590;VA Connecticut Healthcare System;USA;Health;2
+337;590;Space Telescope Science Institute;USA;Government;2
+337;590;Applied Materials Inc, USA;USA;Companies;1
+337;590;American Museum of Natural History;USA;Government;2
+338;591;Meharry Medical College;USA;Universities;2
+338;591;VA Ann Arbor Healthcare System;USA;Health;2
+339;592;Louisiana State University, Health Sciences Center;USA;Universities;2
+339;592;Albany College of Pharmacy;USA;Universities;2
+339;592;Providence VA Medical Center;USA;Health;2
+339;592;Syracuse University;USA;Universities;2
+340;593;Butler Hospital ;USA;Health;2
+340;593;New York Medical College;USA;Universities;2
+341;594;Federal Reserve System;USA;Government;2
+341;594;University of Louisville Health Sciences Center;USA;Health;2
+342;595;University of North Texas;USA;Universities;1
+343;596;National Center for Atmospheric Research;USA;Government;2
+343;596;Center for Devices and Radiological Health;USA;Government;2
+343;596;Missouri University of Science & Technology;USA;Universities;2
+343;596;Mississippi State University;USA;Universities;1
+343;596;Kaiser Permanente Center for Health Research ;USA;Health;2
+344;597;Colorado School of Mines;USA;Universities;2
+344;597;William S. Middleton Memorial Veterans Hospital;USA;Health;2
+344;597;Hospital for Special Surgery;USA;Health;2
+344;597;Loma Linda University *;USA;Universities;2
+345;598;Hunter Holmes McGuire VA Medical Center;USA;Health;2
+345;598;Virginia-Maryland Regional College of Veterinary Medicine;USA;Universities;1
+345;598;Kent State University;USA;Universities;2
+346;599;Ames Laboratory;USA;Government;2
+346;599;Children's Hospital Colorado;USA;Health;2
+346;599;Worcester Polytechnic Institute;USA;Universities;2
+346;599;Boston Medical Center ;USA;Health;2
+346;599;VA Long Beach Healthcare System;USA;Health;2
+347;600;National Energy Technology Laboratory;USA;Government;2
+347;600;University of Illinois, College of Medicine at Peoria;USA;Universities;2
+348;601;Washington State University, Spokane Campus;USA;Universities;2
+349;602;Oak Ridge Institute for Science and Education;USA;Government;2
+350;603;Florida Atlantic University;USA;Universities;2
+350;603;Universities Space Research Association;USA;Non-Profit;2
+350;603;City University of New York, Hunter College;USA;Universities;2
+351;604;University of Massachusetts, Boston;USA;Universities;2
+351;604;Rochester Institute of Technology *;USA;Universities;2
+351;604;University of the Sciences in Philadelphia;USA;Universities;2
+351;604;World Bank United States;USA;Government;1
+351;604;General Motors Company, United States;USA;Companies;2
+352;605;Minneapolis VA Health Care System;USA;Health;2
+352;605;National High Magnetic Field Laboratory;USA;Government;2
+353;606;West Virginia University Health Sciences Center;USA;Health;2
+353;606;Northern Arizona University;USA;Universities;2
+354;607;National Institute of Aerospace;USA;Non-Profit;2
+354;607;International Food Policy Research Institute United States;USA;Non-Profit;2
+355;608;South Dakota State University;USA;Universities;2
+355;608;University of Massachusetts, Lowell;USA;Universities;2
+355;608;VA NY Harbor Healthcare System;USA;Health;2
+356;609;College of William and Mary;USA;Universities;2
+356;609;University of Wisconsin, Milwaukee;USA;Universities;1
+356;609;Michael E. DeBakey VA Medical Center;USA;Health;2
+357;610;VA Eastern Colorado Health Care System;USA;Health;2
+357;610;Corteva, USA;USA;Companies;2
+357;610;Central Arkansas Veterans Healthcare System;USA;Health;2
+357;610;Colorado School of Public Health;USA;Universities;2
+358;612;Charles R. Drew University of Medicine & Science;USA;Universities;2
+358;612;Durham VA Medical Center ;USA;Health;2
+358;612;VA Salt Lake City Health Care System;USA;Health;2
+358;612;Chevron Corp;USA;Companies;1
+359;613;Hennepin County Medical Center;USA;Health;2
+360;614;Southern Illinois University, Carbondale *;USA;Universities;2
+360;614;State University of New York Upstate Medical University *;USA;Universities;2
+360;614;Loyola Medicine;USA;Health;2
+360;614;Northshore University HealthSystem;USA;Health;2
+361;615;Shell, USA;USA;Companies;1
+361;615;Care New England Health System *;USA;Health;3
+362;617;National Optical Astronomy Observatory;USA;Government;2
+362;617;RAND Corp;USA;Non-Profit;2
+363;618;Center for Food Safety and Applied Nutrition;USA;Government;2
+364;619;Marquette University;USA;Universities;2
+364;619;Michigan Technological University;USA;Universities;2
+364;619;Mount Sinai Hospital;USA;Health;2
+364;619;Clark Atlanta University;USA;Universities;2
+365;620;ARUP Laboratories;USA;Companies;2
+366;621;University of North Carolina, Greensboro;USA;Universities;2
+366;621;Kaiser Permanente Medical Center, San Francisco;USA;Health;2
+366;621;University of Texas, El Paso;USA;Universities;2
+366;621;University of New Hampshire;USA;Universities;1
+366;621;Schlumberger, United States;USA;Companies;2
+366;621;Nemours Children's Health System;USA;Government;2
+367;622;North Dakota State University;USA;Universities;2
+368;623;University of North Dakota;USA;Universities;2
+368;623;Nova Southeastern University, Estados Unidos;USA;Universities;2
+368;623;Smithsonian National Museum of Natural History;USA;Government;2
+368;623;East Carolina University;USA;Universities;2
+369;624;University of Maryland Medical Center;USA;Health;2
+370;625;Wildlife Conservation Society USA;USA;Non-Profit;2
+370;625;Portland State University;USA;Universities;2
+370;625;Miriam Hospital ;USA;Health;2
+370;625;Old Dominion University;USA;Universities;2
+370;625;Stony Brook University Medicine;USA;Health;2
+371;626;Hofstra University *;USA;Universities;2
+371;626;Kaiser Permanente Southern California, Pasadena;USA;Health;2
+371;626;SUNY Downstate Medical Center;USA;Universities;2
+371;626;NASA Langley Research Center;USA;Government;3
+372;627;University of Northern Colorado *;USA;Universities;2
+372;627;Chapman University;USA;Universities;2
+373;628;Baylor University;USA;Universities;1
+373;628;University of Nevada-Las Vegas;USA;Universities;2
+373;628;Infrared Processing and Analysis Center;USA;Government;2
+373;628;Ohio University;USA;Universities;2
+374;629;NASA Goddard Institute for Space Studies;USA;Government;2
+374;629;Northeast Ohio Medical University;USA;Universities;3
+374;629;Monterey Bay Aquarium Research Institute;USA;Non-Profit;2
+375;630;Swedish Medical Center ;USA;Health;2
+375;630;Ochsner Healthcare *;USA;Health;3
+375;630;Louisiana State University Agricultural Center;USA;Non-Profit;2
+376;631;Rosalind Franklin University of Medicine and Science;USA;Universities;2
+376;631;UCSF Medical Center;USA;Health;3
+377;632;Regenstrief Institute;USA;Non-Profit;2
+377;632;Ochsner Medical Center-New Orleans;USA;Health;3
+377;632;Southern Methodist University;USA;Universities;2
+378;633;Stevens Institute of Technology;USA;Universities;2
+378;633;Glenn Research Center;USA;Government;2
+378;633;University of South Alabama *;USA;Universities;2
+379;635;Fermi National Accelerator Laboratory;USA;Government;2
+379;635;University of Denver;USA;Universities;2
+379;635;New York Methodist Hospital;USA;Health;2
+379;635;Field Museum Natural History;USA;Government;2
+380;637;Yale New Haven Health System;USA;Health;2
+380;637;New Mexico State University;USA;Universities;2
+381;638;Boeing Co, USA;USA;Companies;2
+381;638;Intermountain Healthcare;USA;Health;2
+381;638;Howard University Health Sciences;USA;Health;3
+382;639;Westat Corp;USA;Government;2
+382;639;Smithsonian Environmental Research Center;USA;Government;2
+383;640;Oakland University;USA;Universities;2
+383;640;Phoenix Children's Hospital;USA;Health;3
+384;641;Rainbow Babies and Children's Hospital ;USA;Health;3
+385;642;Tennessee State University;USA;Universities;3
+385;642;Northrop Grumman Corp, USA;USA;Companies;2
+385;642;Clarkson University;USA;Universities;2
+385;642;Saint John's University;USA;Universities;2
+386;643;University of Maine, Orono;USA;Universities;2
+387;644;Palo Alto Medical Foundation *;USA;Health;3
+387;644;MedStar Health Research Institute;USA;Health;2
+388;646;Edward Hines Jr VA Hospital;USA;Health;3
+388;646;Women and Infants Hospital of Rhode Island ;USA;Health;3
+388;646;Howard University *;USA;Universities;2
+388;646;Haskins Laboratories;USA;Non-Profit;2
+388;646;California State University, Bakersfield;USA;Universities;3
+389;647;Carolinas Medical Center ;USA;Health;3
+389;647;Hartford Hospital ;USA;Health;3
+389;647;University of Memphis;USA;Universities;2
+389;647;Creighton University;USA;Universities;2
+390;648;Morehouse School of Medicine;USA;Universities;3
+390;648;Minneapolis Heart Institute Foundation;USA;Health;3
+390;648;Arkansas Children's Hospital ;USA;Health;2
+391;650;Louisiana State University, Shreveport;USA;Universities;2
+391;650;Denver Health Medical Center;USA;Health;3
+392;651;Walter Reed National Military Medical Center;USA;Health;3
+392;651;Bay Area Environmental Research Institute;USA;Government;2
+392;651;MedStar Health *;USA;Health;2
+392;651;Florida Agricultural & Mechanical University;USA;Universities;2
+393;652;Connecticut Children's Medical Center ;USA;Health;3
+393;652;National Radio Astronomy Observatory Charlottesville;USA;Government;2
+393;652;Subaru Telescope;USA;Government;2
+394;653;University of Tulsa;USA;Universities;3
+395;654;Wright State University;USA;Universities;2
+395;654;Detroit Medical Center;USA;Health;3
+396;655;University of Alaska, Fairbanks;USA;Universities;2
+396;655;Louisiana Tech University;USA;Universities;3
+396;655;Southern Illinois University School of Medicine;USA;Universities;3
+396;655;University of Michigan, Dearborn;USA;Universities;2
+396;655;Baker Hughes, USA;USA;Companies;1
+396;655;Midwestern University;USA;Universities;3
+397;656;Thomas Jefferson National Accelerator Facility;USA;Government;3
+398;657;MITRE Corp *;USA;Companies;2
+398;657;Educational Testing Service;USA;Non-Profit;2
+398;657;University of Dayton;USA;Universities;2
+399;658;Wellesley College;USA;Universities;3
+399;658;University of Maryland, Center for Environmental Science;USA;Government;3
+399;658;Western Michigan University;USA;Universities;2
+399;658;New York Eye and Ear Infirmary;USA;Health;3
+399;658;Prairie View A&M University;USA;Universities;2
+399;658;State University of New York, New Paltz;USA;Universities;2
+400;659;Northern Illinois University;USA;Universities;2
+400;659;National Radio Astronomy Observatory, Socorro;USA;Government;2
+400;659;Hampton University;USA;Universities;2
+400;659;Inova Heart and Vascular Institute;USA;Health;3
+401;660;New Mexico Institute of Mining and Technology *;USA;Universities;3
+401;660;Davidson College;USA;Universities;2
+401;660;Public Health Institute;USA;Health;2
+401;660;Beaumont Health System;USA;Health;3
+401;660;Western University of Health Sciences;USA;Universities;3
+402;661;Princeton Plasma Physics Laboratory;USA;Government;2
+402;661;University of South Dakota;USA;Universities;2
+403;662;Williams College;USA;Universities;3
+403;662;Allina Health;USA;Health;3
+403;662;MetroHealth System ;USA;Health;3
+403;662;Rowan University;USA;Universities;2
+403;662;Inter-American Development Bank;USA;Government;3
+404;663;California Academy of Sciences;USA;Non-Profit;2
+404;663;City University of New York, Brooklyn College;USA;Universities;2
+404;663;The Catholic University of America;USA;Universities;2
+404;663;Villanova University;USA;Universities;2
+404;663;Boise State University;USA;Universities;2
+405;664;University of Missouri, Saint Louis;USA;Universities;2
+406;665;North Carolina A&T State University;USA;Universities;3
+406;665;Bryn Mawr College;USA;Universities;3
+407;666;Desert Research Institute, Reno;USA;Non-Profit;3
+407;666;Marshall University;USA;Universities;3
+407;666;Santa Clara University;USA;Universities;2
+407;666;Hackensack Meridian Health;USA;Health;3
+408;667;International Monetary Fund;USA;Non-Profit;2
+408;667;State University of New York, College of Environmental Science and Forestry;USA;Universities;3
+409;668;Texas State University, San Marcos;USA;Universities;2
+409;668;University of Southern Mississippi;USA;Universities;2
+409;668;University of South Florida-Saint Petersburg;USA;Universities;3
+410;669;North Texas VA Health Care System ;USA;Health;3
+410;669;University at Texas Rio Grande Valley;USA;Universities;2
+410;669;Le Bonheur Children's Hospital;USA;Health;3
+411;670;West Penn Allegheny Health System;USA;Health;3
+412;672;San Francisco State University;USA;Universities;2
+412;672;MITRE Corp, McLean;USA;Companies;2
+413;673;North Carolina Central University;USA;Universities;3
+413;673;Childrens Mercy Hospital ;USA;Health;2
+413;673;NASA Stennis Space Center;USA;Government;3
+413;673;Miami University of Ohio;USA;Universities;2
+414;674;Harvey Mudd College;USA;Universities;3
+414;674;Children's Hospital of Wisconsin;USA;Health;3
+414;674;American University;USA;Universities;2
+414;674;Haverford College in Pennsylvania;USA;Universities;3
+414;674;University of Alabama, Huntsville;USA;Universities;2
+414;674;Washington Hospital Center;USA;Health;3
+415;675;Baystate Health System;USA;Health;3
+415;675;University of New England, United States;USA;Universities;3
+415;675;California State University, Los Angeles;USA;Universities;2
+415;675;Cleveland State University;USA;Universities;2
+415;675;Christiana Care Health System;USA;Health;3
+415;675;Science System and Applications, Inc;USA;Companies;3
+415;675;Kaiser Permanente Medical Center, Los Angeles;USA;Health;3
+416;676;California State University, Fresno;USA;Universities;3
+416;676;Graduate School of Public Health and Health Policy;USA;Universities;3
+416;676;Lake Erie College;USA;Universities;3
+416;676;Children's Hospital of Orange County ;USA;Health;3
+417;677;San Jose State University;USA;Universities;2
+417;677;General Atomics;USA;Companies;3
+417;677;University of Hawaii, Hilo;USA;Universities;3
+418;678;University of Massachusetts, Dartmouth;USA;Universities;3
+418;678;The Florida A&M University and The Florida State University College of Engineering;USA;Universities;2
+418;678;University of Louisiana, Lafayette;USA;Universities;3
+418;678;Jefferson Health System;USA;Health;3
+418;678;Pace University;USA;Universities;3
+419;679;SETI Institute;USA;Non-Profit;3
+419;679;Delaware State University;USA;Universities;2
+419;679;Georgia Southern University;USA;Universities;2
+419;679;New York Institute of Technology *;USA;Universities;3
+420;680;University of Nebraska, Omaha;USA;Universities;2
+420;680;California State University, Long Beach;USA;Universities;2
+421;681;Wichita State University;USA;Universities;3
+421;681;Middlebury College;USA;Universities;2
+422;682;University of New Orleans;USA;Universities;3
+422;682;Wesleyan University, Middletown;USA;Universities;2
+423;683;NASA Marshall Space Flight Center;USA;Government;3
+423;683;Loma Linda University Medical Center ;USA;Health;3
+424;684;MCPHS University;USA;Universities;3
+424;684;Western Washington University;USA;Universities;2
+425;685;California State University, Northridge;USA;Universities;2
+426;686;Idaho National Laboratory;USA;Government;3
+427;687;East Tennessee State University;USA;Universities;2
+427;687;Spectrum Health;USA;Health;3
+427;687;University of San Francisco;USA;Universities;2
+427;687;Maimonides Medical Center;USA;Health;3
+427;687;Newton-Wellesley Hospital;USA;Health;3
+428;688;South Dakota School of Mines and Technology;USA;Universities;2
+429;689;Florida Institute of Technology;USA;Universities;2
+429;689;City University of New York, Queens College;USA;Universities;2
+429;689;James A Haley Veterans Hospital;USA;Health;3
+429;689;Arkansas State University;USA;Universities;2
+429;689;Gemini Observatory;USA;Non-Profit;3
+429;689;Clark University;USA;Universities;2
+430;690;United States Fish and Wildlife Service;USA;Government;2
+430;690;Washington State University, Vancouver Campus;USA;Universities;3
+430;690;Barnard College;USA;Universities;3
+431;691;Southwest Research Institute;USA;Non-Profit;3
+431;691;Los Angeles County-USC Medical Center ;USA;Health;3
+431;691;NASA Johnson Space Center;USA;Government;3
+431;691;California State University, Fullerton;USA;Universities;2
+431;691;Central Michigan University;USA;Universities;2
+432;692;Yeshiva University;USA;Universities;3
+432;692;Carleton College;USA;Universities;2
+432;692;Fordham University;USA;Universities;2
+432;692;Bowling Green State University;USA;Universities;2
+433;693;Staten Island University Hospital;USA;Health;3
+433;693;Rothman Institute;USA;Health;3
+433;693;Philadelphia College of Osteopathic Medicine;USA;Universities;3
+434;694;Teachers College of Columbia University;USA;Universities;2
+434;694;University of Minnesota, Duluth;USA;Universities;2
+434;694;University of Tennessee, Chattanooga;USA;Universities;3
+434;694;Naval Postgraduate School;USA;Universities;3
+434;694;Appalachian State University;USA;Universities;2
+435;695;College of Charleston;USA;Universities;2
+435;695;Jackson State University;USA;Universities;3
+436;696;City University of New York Lehman College;USA;Universities;3
+436;696;Middle Tennessee State University;USA;Universities;2
+436;696;Western New England University;USA;Universities;3
+436;696;University Corporation for Atmospheric Research;USA;Non-Profit;2
+436;696;Mount Sinai Beth Israel;USA;Health;3
+437;697;University of Arkansas at Little Rock;USA;Universities;3
+437;697;Missouri Botanical Garden;USA;Government;3
+437;697;California Polytechnic State University, San Luis Obispo;USA;Universities;2
+437;697;Reed College;USA;Universities;3
+438;698;Towson University;USA;Universities;2
+438;698;Tuskegee University;USA;Universities;3
+438;698;Jacobi Medical Center;USA;Health;3
+439;699;University of the Pacific;USA;Universities;3
+439;699;University of Colorado, Colorado Springs;USA;Universities;2
+440;700;Smith College;USA;Universities;2
+440;700;Sonoma State University;USA;Universities;3
+440;700;Skidmore College;USA;Universities;3
+440;700;Cambridge Health Alliance;USA;Health;3
+440;700;Naval Medical Center San Diego ;USA;Health;3
+440;700;MGH Institute of Health Professions;USA;Health;3
+441;701;Hamilton College;USA;Universities;3
+441;701;City University of New York, College of Staten Island;USA;Universities;3
+441;701;Cooper University Health Care;USA;Health;4
+441;701;Duquesne University;USA;Universities;2
+442;702;Colby College;USA;Universities;3
+442;702;University of Connecticut, Greater Hartford;USA;Universities;3
+442;702;Chicago State University;USA;Universities;3
+442;702;Xavier University;USA;Universities;3
+443;703;Humboldt State University;USA;Universities;3
+443;703;Mount Holyoke College;USA;Universities;3
+444;704;Planetary Science Institute;USA;Non-Profit;3
+444;704;Gemini Observatory Northern Operations Center;USA;Non-Profit;3
+444;704;Indiana State University;USA;Universities;3
+444;704;University of San Diego;USA;Universities;2
+444;704;American Institutes for Research;USA;Government;3
+444;704;Occidental College;USA;Universities;3
+444;704;United States Naval Academy;USA;Universities;3
+445;705;Oberlin College;USA;Universities;3
+445;705;University of New Haven;USA;Universities;3
+445;705;The College of New Jersey;USA;Universities;3
+445;705;Kessler Foundation;USA;Health;3
+445;705;University of North Georgia;USA;Universities;3
+446;706;Swarthmore College;USA;Universities;2
+447;707;Trinity University;USA;Universities;3
+447;707;Space Science Institute;USA;Non-Profit;3
+447;707;University of North Carolina, Wilmington;USA;Universities;2
+447;707;State University of New York, College at Oswego;USA;Universities;3
+447;707;Mayo Clinic Health System;USA;Health;3
+448;708;Lowell Observatory;USA;Non-Profit;3
+448;708;College of the Holy Cross;USA;Universities;3
+448;708;Macalester College;USA;Universities;3
+448;708;Amherst College;USA;Universities;3
+448;708;Palo Alto University;USA;Universities;4
+448;708;Ball State University;USA;Universities;2
+449;709;Pomona College;USA;Universities;3
+449;709;Florida Polytechnic University;USA;Universities;3
+450;710;Sanford Health;USA;Health;3
+450;710;Bowdoin College;USA;Universities;3
+450;710;Illinois State University;USA;Universities;2
+450;710;Bates College;USA;Universities;3
+451;711;City University of New York, John Jay College of Criminal Justice;USA;Universities;3
+451;711;DePaul University;USA;Universities;2
+451;711;Milwaukee VA Medical Center;USA;Health;3
+452;712;California State University, San Marcos;USA;Universities;3
+452;712;Tennessee Technological University;USA;Universities;3
+452;712;Furman University;USA;Universities;3
+453;713;Western Kentucky University;USA;Universities;3
+454;714;Western Illinois University;USA;Universities;3
+454;714;Texas A&M University, Corpus Christi;USA;Universities;2
+454;714;Bucknell University;USA;Universities;2
+454;714;California State Polytechnic University, Pomona;USA;Universities;3
+454;714;Morgan State University;USA;Universities;3
+455;715;University of Michigan, Flint;USA;Universities;3
+455;715;Lehigh Valley Health Network *;USA;Health;4
+456;716;Texas Southern University;USA;Universities;3
+456;716;Bentley University;USA;Universities;3
+456;716;University of the Incarnate Word;USA;Universities;3
+456;716;Franklin & Marshall College;USA;Universities;4
+457;717;Pepperdine University;USA;Universities;3
+457;717;Kenyon College;USA;Universities;3
+458;718;Ithaca College;USA;Universities;3
+458;718;West Chester University of Pennsylvania;USA;Universities;3
+458;718;University of Richmond;USA;Universities;2
+458;718;Mercer University;USA;Universities;3
+459;719;New York City College of Technology;USA;Universities;4
+459;719;University of Wisconsin, Stevens Point;USA;Universities;3
+460;720;Grand Valley State University;USA;Universities;2
+460;720;The University of Vermont Medical Center;USA;Health;4
+460;720;Carilion Clinic *;USA;Health;4
+461;721;Texas Christian University;USA;Universities;2
+461;721;Lamar University;USA;Universities;3
+461;721;Seton Hall University;USA;Universities;2
+461;721;James Madison University;USA;Universities;2
+462;722;Baruch College, City University of New York;USA;Universities;3
+462;722;Texas A&M University, Kingsville;USA;Universities;4
+463;723;University of Southern Maine;USA;Universities;3
+463;723;Southern Illinois University Edwardsville;USA;Universities;3
+463;723;Montclair State University;USA;Universities;2
+464;724;William Paterson University;USA;Universities;4
+464;724;Kennesaw State University;USA;Universities;2
+464;724;University of Texas, Tyler;USA;Universities;4
+464;724;University of Alaska, Anchorage;USA;Universities;3
+464;724;University of Tampa;USA;Universities;3
+465;725;American Institute of Aeronautics and Astronautics;USA;Non-Profit;3
+465;725;Campbell University;USA;Universities;4
+466;726;Colgate University;USA;Universities;3
+466;726;Long Island University;USA;Universities;3
+466;726;Idaho State University;USA;Universities;3
+466;726;Elon University;USA;Universities;3
+466;726;California State University, Sacramento;USA;Universities;2
+466;726;Sam Houston State University;USA;Universities;3
+467;727;Tarleton State University;USA;Universities;4
+467;727;High Point University;USA;Universities;4
+467;727;Norfolk State University;USA;Universities;3
+468;728;Eastern Michigan University;USA;Universities;3
+468;728;Rhodes College;USA;Universities;4
+468;728;Embry-Riddle Aeronautical University *;USA;Universities;3
+468;728;California State University, San Bernardino;USA;Universities;3
+468;728;Claremont McKenna College;USA;Universities;4
+469;729;Southern University, Baton Rouge;USA;Universities;4
+469;729;Bard College;USA;Universities;3
+469;729;Fairfield University;USA;Universities;3
+469;729;Liberty University;USA;Universities;3
+469;729;University of North Florida;USA;Universities;3
+470;731;Loyola Marymount University;USA;Universities;3
+470;731;Central Washington University;USA;Universities;3
+471;732;Missouri State University;USA;Universities;3
+471;732;Vassar College;USA;Universities;3
+471;732;California State University, Dominguez Hills;USA;Universities;3
+471;732;Jackson Health System;USA;Health;4
+471;732;AT Still University;USA;Universities;4
+471;732;University of Wisconsin - LaCrosse;USA;Universities;3
+471;732;Lafayette College;USA;Universities;3
+472;733;Salisbury University;USA;Universities;4
+472;733;Christopher Newport University;USA;Universities;4
+472;733;Coastal Carolina University;USA;Universities;3
+473;734;University of Northern Iowa;USA;Universities;3
+473;734;Providence College;USA;Universities;4
+474;735;Butler University;USA;Universities;3
+474;735;Texas A&M University at Galveston;USA;Universities;4
+475;736;University of Detroit Mercy;USA;Universities;3
+475;736;Youngstown State University;USA;Universities;4
+475;736;Denison University;USA;Universities;4
+476;737;California State University, Chico;USA;Universities;3
+476;737;Eastern Illinois University;USA;Universities;3
+476;737;Drake University;USA;Universities;3
+477;738;Claremont Graduate University;USA;Universities;3
+477;738;University of Nebraska, Kearney;USA;Universities;4
+477;738;Hobart and William Smith Colleges;USA;Universities;3
+477;738;Gonzaga University;USA;Universities;3
+478;739;University of Wisconsin, Oshkosh;USA;Universities;3
+478;739;California State University, East Bay;USA;Universities;3
+478;739;Weber State University;USA;Universities;3
+479;740;University of Wisconsin, Eau Claire;USA;Universities;2
+479;740;University of Central Arkansas;USA;Universities;3
+480;741;Suffolk University;USA;Universities;3
+480;741;Florida Gulf Coast University;USA;Universities;4
+480;741;Purdue University Northwest;USA;Universities;3
+480;741;Colorado College;USA;Universities;3
+480;741;Widener University;USA;Universities;3
+480;741;Northern Kentucky University;USA;Universities;4
+481;743;Electric Power Research Institute;USA;Non-Profit;4
+481;743;Babson College;USA;Universities;3
+482;744;Siena College;USA;Universities;4
+482;744;United States Military Academy at West Point;USA;Universities;3
+483;745;Valparaiso University;USA;Universities;4
+484;746;Loyola University Maryland;USA;Universities;4
+485;747;Aerospace Corp;USA;Companies;3
+485;747;Washington and Lee University;USA;Universities;3
+485;747;Murray State University;USA;Universities;4
+486;748;University of St. Thomas;USA;Universities;3
+486;748;University of Houston - Downtown;USA;Universities;4
+486;748;Borough of Manhattan Community College;USA;Universities;3
+486;748;Naval Medical Center Portsmouth;USA;Health;4
+487;749;University of Houston, Clear Lake;USA;Universities;4
+488;750;University of West Florida;USA;Universities;3
+489;752;Bradley University;USA;Universities;3
+490;753;Quinnipiac University;USA;Universities;3
+490;753;Texas Woman's University;USA;Universities;3
+491;754;Manhattan College;USA;Universities;3
+491;754;Northeastern Illinois University;USA;Universities;4
+491;754;University of Hartford;USA;Universities;4
+491;754;Dickinson College;USA;Universities;3
+492;755;Adelphi University;USA;Universities;3
+493;756;University of Wisconsin, Whitewater;USA;Universities;4
+493;756;Seattle University;USA;Universities;3
+494;757;Indiana University of Pennsylvania;USA;Universities;3
+494;757;Metropolitan State University;USA;Universities;4
+495;758;Central Connecticut State University;USA;Universities;4
+495;758;Southern Connecticut State University;USA;Universities;4
+496;759;University of Baltimore;USA;Universities;4
+496;759;Western Carolina University;USA;Universities;3
+497;760;Utah Valley University;USA;Universities;3
+497;760;Walden University;USA;Universities;3
+498;761;Fairleigh Dickinson University;USA;Universities;3
+498;761;Troy University;USA;Universities;4
+499;762;Richard Stockton College of New Jersey;USA;Universities;4
+500;765;Minnesota State University, Mankato;USA;Universities;4
+501;766;California State University, Stanislaus;USA;Universities;4
+502;768;Samford University;USA;Universities;3
+503;770;Wheaton College;USA;Universities;3
+504;771;University of Portland;USA;Universities;4
+505;773;State University of West Georgia;USA;Universities;4
+506;774;University of Scranton;USA;Universities;4
+506;774;Indiana University - Purdue University at Fort Wayne;USA;Universities;4
+507;775;Eastern Kentucky University;USA;Universities;3
+508;776;University of Wisconsin, Green Bay;USA;Universities;4
+509;779;Sacred Heart University;USA;Universities;4
+510;781;Saint Joseph's University;USA;Universities;4
+511;786;Oklahoma State University, Oklahoma City;USA;Universities;4
+512;787;Radford University;USA;Universities;3
+513;789;Alabama A&M University;USA;Universities;4
+514;790;Bethel University;USA;Universities;4
+515;799;Penn State Erie, The Behrend College;USA;Universities;4
+516;813;Research Institute for Fragrance Materials;USA;Government;4

@@ -1,0 +1,528 @@
+Rank;Global Rank;Institution;Country;Sector;Best Country Quartile
+1;4;Harvard University *;USA;Universities;1
+2;8;Harvard Medical School;USA;Universities;1
+3;14;Stanford University *;USA;Universities;1
+4;18;Massachusetts Institute of Technology *;USA;Universities;1
+5;23;Johns Hopkins University *;USA;Universities;1
+6;26;University of Michigan, Ann Arbor *;USA;Universities;1
+7;31;University of Washington *;USA;Universities;1
+8;32;University of Pennsylvania *;USA;Universities;1
+9;36;University of California, Los Angeles *;USA;Universities;1
+10;37;Cornell University *;USA;Universities;1
+11;40;University of California, San Diego *;USA;Universities;1
+11;40;Columbia University *;USA;Universities;1
+12;42;University of California, Berkeley *;USA;Universities;1
+13;46;Yale University *;USA;Universities;1
+14;50;University of California, San Francisco *;USA;Universities;1
+15;53;University of Chicago *;USA;Universities;1
+16;56;Duke University *;USA;Universities;1
+17;60;Northwestern University, Evanston *;USA;Universities;1
+18;63;University of Wisconsin, Madison *;USA;Universities;1
+19;65;University of North Carolina, Chapel Hill *;USA;Universities;1
+20;69;University of Minnesota, Twin Cities *;USA;Universities;1
+21;71;New York University *;USA;Universities;1
+22;73;Ohio State University, Columbus *;USA;Universities;1
+23;80;University of Illinois at Urbana-Champaign *;USA;Universities;1
+24;86;University of Pittsburgh *;USA;Universities;1
+25;97;University of California, Davis *;USA;Universities;1
+26;101;Pennsylvania State University *;USA;Universities;1
+27;103;University of Florida *;USA;Universities;1
+28;106;Washington University in Saint Louis *;USA;Universities;1
+29;107;University of Texas, Austin;USA;Universities;1
+30;108;University of Southern California *;USA;Universities;1
+31;122;University of Maryland, Baltimore;USA;Universities;1
+32;126;Emory University *;USA;Universities;1
+33;129;Vanderbilt University *;USA;Universities;1
+34;132;Carnegie Mellon University *;USA;Universities;1
+35;135;Purdue University;USA;Universities;1
+36;144;Georgia Institute of Technology *;USA;Universities;1
+37;150;Rutgers, The State University of New Jersey;USA;Universities;1
+38;151;Harvard-MIT Division of Health Sciences and Tecnology;USA;Universities;1
+39;155;Michigan State University;USA;Universities;1
+40;157;Boston University *;USA;Universities;1
+41;159;California Institute of Technology *;USA;Universities;1
+42;160;Weill Cornell Medicine;USA;Universities;1
+43;176;Princeton University;USA;Universities;1
+44;178;Toyota Technological Institute at Chicago;USA;Universities;1
+45;181;University of California, Irvine *;USA;Universities;1
+46;184;University of Utah *;USA;Universities;1
+47;187;Icahn School of Medicine at Mount Sinai;USA;Universities;1
+48;188;Arizona State University;USA;Universities;1
+49;197;Texas A&M University, College Station *;USA;Universities;1
+50;205;University of Colorado, Denver *;USA;Universities;1
+51;207;University of Arizona *;USA;Universities;1
+52;220;University of Virginia *;USA;Universities;1
+53;230;Baylor College of Medicine;USA;Universities;1
+54;243;University of Texas Southwestern Medical Center ;USA;Universities;1
+55;246;University of Colorado, Boulder *;USA;Universities;1
+55;246;University of Iowa *;USA;Universities;1
+56;247;North Carolina State University;USA;Universities;1
+57;252;Indiana University-Bloomington;USA;Universities;1
+58;257;University of Colorado, Anschutz Medical Campus;USA;Universities;1
+59;259;Case Western Reserve University;USA;Universities;1
+60;262;University of Alabama, Birmingham *;USA;Universities;1
+61;268;Brown University;USA;Universities;1
+62;272;University of Illinois, Chicago *;USA;Universities;1
+63;274;The Rockefeller University *;USA;Universities;1
+64;277;University of California, Santa Barbara;USA;Universities;1
+65;279;Virginia Polytechnic Institute and State University;USA;Universities;1
+66;285;University of Rochester *;USA;Universities;1
+67;294;University of Miami *;USA;Universities;1
+68;298;Oregon Health & Science University *;USA;Universities;1
+69;305;University of Maryland, College Park *;USA;Universities;1
+70;314;University of Georgia;USA;Universities;1
+71;320;Temple University *;USA;Universities;1
+72;324;University of Cincinnati *;USA;Universities;1
+73;325;University of Pittsburgh Health Sciences;USA;Universities;1
+74;329;Iowa State University;USA;Universities;1
+75;332;University of Massachusetts Medical School;USA;Universities;1
+76;333;Indiana University-Purdue University Indianapolis;USA;Universities;1
+77;334;University of Massachusetts, Amherst;USA;Universities;1
+78;340;University of Connecticut, Storrs *;USA;Universities;1
+79;346;Wayne State University;USA;Universities;1
+80;348;University of Kansas *;USA;Universities;1
+81;350;State University of New York, Buffalo;USA;Universities;1
+82;354;Rice University;USA;Universities;1
+83;355;State University of New York, Stony Brook *;USA;Universities;1
+84;357;University of California, Riverside;USA;Universities;1
+85;358;University of Tennessee, Knoxville *;USA;Universities;1
+86;360;University of Kentucky *;USA;Universities;1
+87;361;University of Nebraska, Lincoln;USA;Universities;1
+88;363;Dartmouth College *;USA;Universities;1
+89;364;Tufts University;USA;Universities;1
+90;366;Northeastern University, USA;USA;Universities;1
+90;366;University of South Florida System *;USA;Universities;1
+91;367;Colorado State University, Fort Collins *;USA;Universities;1
+92;376;City University of New York *;USA;Universities;1
+93;378;George Washington University *;USA;Universities;1
+94;382;Albert Einstein College of Medicine;USA;Universities;1
+95;383;University of South Florida;USA;Universities;1
+96;391;Virginia Commonwealth University *;USA;Universities;1
+97;405;Oregon State University;USA;Universities;1
+98;407;University of New Mexico *;USA;Universities;1
+99;410;University of California, Santa Cruz;USA;Universities;1
+100;412;University of Oklahoma *;USA;Universities;1
+100;412;Washington State University, Pullman *;USA;Universities;1
+101;413;University of Notre Dame;USA;Universities;1
+102;420;University of Missouri, Columbia *;USA;Universities;1
+103;428;Wake Forest University *;USA;Universities;1
+103;428;Georgetown University *;USA;Universities;1
+104;431;University of Minnesota Health and Medicine;USA;Universities;1
+105;432;University of Texas, Health Science Center at Houston;USA;Universities;1
+106;433;University of Delaware;USA;Universities;1
+107;435;University of Texas, Dallas;USA;Universities;1
+108;437;Florida State University *;USA;Universities;1
+108;437;University of Texas Medical Branch ;USA;Universities;1
+109;438;Medical University of South Carolina *;USA;Universities;1
+110;439;University of Central Florida;USA;Universities;1
+111;442;Drexel University;USA;Universities;1
+112;445;University of Houston;USA;Universities;1
+113;460;University of South Carolina *;USA;Universities;1
+114;468;University of Nebraska Medical Center;USA;Universities;1
+115;470;Thomas Jefferson University *;USA;Universities;1
+116;475;University of Texas Health Science Center at San Antonio ;USA;Universities;1
+117;479;University of Hawaii, Manoa *;USA;Universities;1
+118;480;Medical College of Wisconsin;USA;Universities;1
+119;484;Louisiana State University, Baton Rouge;USA;Universities;1
+120;493;Florida International University;USA;Universities;1
+121;501;West Virginia University *;USA;Universities;1
+121;501;University of Louisville *;USA;Universities;1
+122;503;Auburn University;USA;Universities;1
+123;505;Tulane University *;USA;Universities;1
+124;506;Augusta University *;USA;Universities;2
+124;506;Kansas State University;USA;Universities;1
+125;507;Rush University *;USA;Universities;1
+126;510;Georgia State University;USA;Universities;1
+127;512;University of California, Merced;USA;Universities;2
+128;514;Rensselaer Polytechnic Institute;USA;Universities;1
+129;516;University of Oklahoma Health Sciences Center;USA;Universities;2
+130;517;George Mason University;USA;Universities;1
+131;521;University of Oregon;USA;Universities;1
+131;521;University of Vermont;USA;Universities;1
+132;525;University of Connecticut Health Center;USA;Universities;2
+132;525;University of Arkansas for Medical Sciences;USA;Universities;1
+133;529;State University of New York, Albany;USA;Universities;1
+133;529;Clemson University;USA;Universities;1
+134;534;University of Mississippi *;USA;Universities;1
+135;537;Texas Tech University;USA;Universities;1
+136;542;Texas A&M University, Health Science Center;USA;Universities;1
+137;543;Saint Louis University, Saint Louis *;USA;Universities;1
+137;543;Brigham Young University;USA;Universities;1
+138;549;City University of New York Graduate Center;USA;Universities;1
+138;549;Utah State University *;USA;Universities;1
+139;552;University of Texas, Arlington;USA;Universities;1
+140;553;Texas Tech University Health Sciences Center;USA;Universities;2
+140;553;San Diego State University;USA;Universities;1
+141;555;Brandeis University;USA;Universities;2
+142;556;University of Texas, San Antonio;USA;Universities;2
+143;558;University of Rhode Island;USA;Universities;2
+144;561;State University of New York at Binghamton;USA;Universities;2
+144;561;University of Arkansas, Fayetteville;USA;Universities;1
+145;562;New Jersey Institute of Technology;USA;Universities;2
+145;562;University of Toledo *;USA;Universities;2
+145;562;University of Akron;USA;Universities;1
+146;566;University of Nevada-Reno;USA;Universities;1
+147;569;Uniformed Services University of the Health Sciences;USA;Universities;2
+147;569;USF Health;USA;Universities;2
+148;572;Lehigh University;USA;Universities;2
+149;573;Boston College;USA;Universities;1
+149;573;University of Alabama, Tuscaloosa;USA;Universities;1
+150;575;Montana State University, Bozeman;USA;Universities;2
+151;576;Eastern Virginia Medical School;USA;Universities;2
+152;578;University of Idaho;USA;Universities;2
+152;578;Albany Medical College;USA;Universities;2
+153;582;University of Missouri, Kansas City;USA;Universities;2
+153;582;Donald and Barbara Zucker School of Medicine at Hofstra/Northwell;USA;Universities;2
+154;583;University of North Carolina, Charlotte;USA;Universities;2
+154;583;Illinois Institute of Technology;USA;Universities;2
+155;584;University of Wyoming;USA;Universities;2
+156;585;City University of New York, City College;USA;Universities;2
+156;585;University of Mississippi Medical Center;USA;Universities;2
+157;587;Oklahoma State University, Stillwater;USA;Universities;1
+157;587;Loyola University of Chicago *;USA;Universities;1
+158;589;University of Montana, Missoula;USA;Universities;2
+159;590;University of Maryland, Baltimore County;USA;Universities;2
+160;591;Meharry Medical College;USA;Universities;2
+161;592;Louisiana State University, Health Sciences Center;USA;Universities;2
+161;592;Albany College of Pharmacy;USA;Universities;2
+161;592;Syracuse University;USA;Universities;2
+162;593;New York Medical College;USA;Universities;2
+163;595;University of North Texas;USA;Universities;1
+164;596;Missouri University of Science & Technology;USA;Universities;2
+164;596;Mississippi State University;USA;Universities;1
+165;597;Colorado School of Mines;USA;Universities;2
+165;597;Loma Linda University *;USA;Universities;2
+166;598;Virginia-Maryland Regional College of Veterinary Medicine;USA;Universities;1
+166;598;Kent State University;USA;Universities;2
+167;599;Worcester Polytechnic Institute;USA;Universities;2
+168;600;University of Illinois, College of Medicine at Peoria;USA;Universities;2
+169;601;Washington State University, Spokane Campus;USA;Universities;2
+170;603;Florida Atlantic University;USA;Universities;2
+170;603;City University of New York, Hunter College;USA;Universities;2
+171;604;University of Massachusetts, Boston;USA;Universities;2
+171;604;Rochester Institute of Technology *;USA;Universities;2
+171;604;University of the Sciences in Philadelphia;USA;Universities;2
+172;606;Northern Arizona University;USA;Universities;2
+173;608;South Dakota State University;USA;Universities;2
+173;608;University of Massachusetts, Lowell;USA;Universities;2
+174;609;College of William and Mary;USA;Universities;2
+174;609;University of Wisconsin, Milwaukee;USA;Universities;1
+175;610;Colorado School of Public Health;USA;Universities;2
+176;612;Charles R. Drew University of Medicine & Science;USA;Universities;2
+177;614;Southern Illinois University, Carbondale *;USA;Universities;2
+177;614;State University of New York Upstate Medical University *;USA;Universities;2
+178;619;Marquette University;USA;Universities;2
+178;619;Michigan Technological University;USA;Universities;2
+178;619;Clark Atlanta University;USA;Universities;2
+179;621;University of North Carolina, Greensboro;USA;Universities;2
+179;621;University of Texas, El Paso;USA;Universities;2
+179;621;University of New Hampshire;USA;Universities;1
+180;622;North Dakota State University;USA;Universities;2
+181;623;University of North Dakota;USA;Universities;2
+181;623;Nova Southeastern University, Estados Unidos;USA;Universities;2
+181;623;East Carolina University;USA;Universities;2
+182;625;Portland State University;USA;Universities;2
+182;625;Old Dominion University;USA;Universities;2
+183;626;Hofstra University *;USA;Universities;2
+183;626;SUNY Downstate Medical Center;USA;Universities;2
+184;627;University of Northern Colorado *;USA;Universities;2
+184;627;Chapman University;USA;Universities;2
+185;628;Baylor University;USA;Universities;1
+185;628;University of Nevada-Las Vegas;USA;Universities;2
+185;628;Ohio University;USA;Universities;2
+186;629;Northeast Ohio Medical University;USA;Universities;3
+187;631;Rosalind Franklin University of Medicine and Science;USA;Universities;2
+188;632;Southern Methodist University;USA;Universities;2
+189;633;Stevens Institute of Technology;USA;Universities;2
+189;633;University of South Alabama *;USA;Universities;2
+190;635;University of Denver;USA;Universities;2
+191;637;New Mexico State University;USA;Universities;2
+192;640;Oakland University;USA;Universities;2
+193;642;Tennessee State University;USA;Universities;3
+193;642;Clarkson University;USA;Universities;2
+193;642;Saint John's University;USA;Universities;2
+194;643;University of Maine, Orono;USA;Universities;2
+195;646;Howard University *;USA;Universities;2
+195;646;California State University, Bakersfield;USA;Universities;3
+196;647;University of Memphis;USA;Universities;2
+196;647;Creighton University;USA;Universities;2
+197;648;Morehouse School of Medicine;USA;Universities;3
+198;650;Louisiana State University, Shreveport;USA;Universities;2
+199;651;Florida Agricultural & Mechanical University;USA;Universities;2
+200;653;University of Tulsa;USA;Universities;3
+201;654;Wright State University;USA;Universities;2
+202;655;University of Alaska, Fairbanks;USA;Universities;2
+202;655;Louisiana Tech University;USA;Universities;3
+202;655;Southern Illinois University School of Medicine;USA;Universities;3
+202;655;University of Michigan, Dearborn;USA;Universities;2
+202;655;Midwestern University;USA;Universities;3
+203;657;University of Dayton;USA;Universities;2
+204;658;Wellesley College;USA;Universities;3
+204;658;Western Michigan University;USA;Universities;2
+204;658;Prairie View A&M University;USA;Universities;2
+204;658;State University of New York, New Paltz;USA;Universities;2
+205;659;Northern Illinois University;USA;Universities;2
+205;659;Hampton University;USA;Universities;2
+206;660;New Mexico Institute of Mining and Technology *;USA;Universities;3
+206;660;Davidson College;USA;Universities;2
+206;660;Western University of Health Sciences;USA;Universities;3
+207;661;University of South Dakota;USA;Universities;2
+208;662;Williams College;USA;Universities;3
+208;662;Rowan University;USA;Universities;2
+209;663;City University of New York, Brooklyn College;USA;Universities;2
+209;663;The Catholic University of America;USA;Universities;2
+209;663;Villanova University;USA;Universities;2
+209;663;Boise State University;USA;Universities;2
+210;664;University of Missouri, Saint Louis;USA;Universities;2
+211;665;North Carolina A&T State University;USA;Universities;3
+211;665;Bryn Mawr College;USA;Universities;3
+212;666;Marshall University;USA;Universities;3
+212;666;Santa Clara University;USA;Universities;2
+213;667;State University of New York, College of Environmental Science and Forestry;USA;Universities;3
+214;668;Texas State University, San Marcos;USA;Universities;2
+214;668;University of Southern Mississippi;USA;Universities;2
+214;668;University of South Florida-Saint Petersburg;USA;Universities;3
+215;669;University at Texas Rio Grande Valley;USA;Universities;2
+216;672;San Francisco State University;USA;Universities;2
+217;673;North Carolina Central University;USA;Universities;3
+217;673;Miami University of Ohio;USA;Universities;2
+218;674;Harvey Mudd College;USA;Universities;3
+218;674;American University;USA;Universities;2
+218;674;Haverford College in Pennsylvania;USA;Universities;3
+218;674;University of Alabama, Huntsville;USA;Universities;2
+219;675;University of New England, United States;USA;Universities;3
+219;675;California State University, Los Angeles;USA;Universities;2
+219;675;Cleveland State University;USA;Universities;2
+220;676;California State University, Fresno;USA;Universities;3
+220;676;Graduate School of Public Health and Health Policy;USA;Universities;3
+220;676;Lake Erie College;USA;Universities;3
+221;677;San Jose State University;USA;Universities;2
+221;677;University of Hawaii, Hilo;USA;Universities;3
+222;678;University of Massachusetts, Dartmouth;USA;Universities;3
+222;678;The Florida A&M University and The Florida State University College of Engineering;USA;Universities;2
+222;678;University of Louisiana, Lafayette;USA;Universities;3
+222;678;Pace University;USA;Universities;3
+223;679;Delaware State University;USA;Universities;2
+223;679;Georgia Southern University;USA;Universities;2
+223;679;New York Institute of Technology *;USA;Universities;3
+224;680;University of Nebraska, Omaha;USA;Universities;2
+224;680;California State University, Long Beach;USA;Universities;2
+225;681;Wichita State University;USA;Universities;3
+225;681;Middlebury College;USA;Universities;2
+226;682;University of New Orleans;USA;Universities;3
+226;682;Wesleyan University, Middletown;USA;Universities;2
+227;684;MCPHS University;USA;Universities;3
+227;684;Western Washington University;USA;Universities;2
+228;685;California State University, Northridge;USA;Universities;2
+229;687;East Tennessee State University;USA;Universities;2
+229;687;University of San Francisco;USA;Universities;2
+230;688;South Dakota School of Mines and Technology;USA;Universities;2
+231;689;Florida Institute of Technology;USA;Universities;2
+231;689;City University of New York, Queens College;USA;Universities;2
+231;689;Arkansas State University;USA;Universities;2
+231;689;Clark University;USA;Universities;2
+232;690;Washington State University, Vancouver Campus;USA;Universities;3
+232;690;Barnard College;USA;Universities;3
+233;691;California State University, Fullerton;USA;Universities;2
+233;691;Central Michigan University;USA;Universities;2
+234;692;Yeshiva University;USA;Universities;3
+234;692;Carleton College;USA;Universities;2
+234;692;Fordham University;USA;Universities;2
+234;692;Bowling Green State University;USA;Universities;2
+235;693;Philadelphia College of Osteopathic Medicine;USA;Universities;3
+236;694;Teachers College of Columbia University;USA;Universities;2
+236;694;University of Minnesota, Duluth;USA;Universities;2
+236;694;University of Tennessee, Chattanooga;USA;Universities;3
+236;694;Naval Postgraduate School;USA;Universities;3
+236;694;Appalachian State University;USA;Universities;2
+237;695;College of Charleston;USA;Universities;2
+237;695;Jackson State University;USA;Universities;3
+238;696;City University of New York Lehman College;USA;Universities;3
+238;696;Middle Tennessee State University;USA;Universities;2
+238;696;Western New England University;USA;Universities;3
+239;697;University of Arkansas at Little Rock;USA;Universities;3
+239;697;California Polytechnic State University, San Luis Obispo;USA;Universities;2
+239;697;Reed College;USA;Universities;3
+240;698;Towson University;USA;Universities;2
+240;698;Tuskegee University;USA;Universities;3
+241;699;University of the Pacific;USA;Universities;3
+241;699;University of Colorado, Colorado Springs;USA;Universities;2
+242;700;Smith College;USA;Universities;2
+242;700;Sonoma State University;USA;Universities;3
+242;700;Skidmore College;USA;Universities;3
+243;701;Hamilton College;USA;Universities;3
+243;701;City University of New York, College of Staten Island;USA;Universities;3
+243;701;Duquesne University;USA;Universities;2
+244;702;Colby College;USA;Universities;3
+244;702;University of Connecticut, Greater Hartford;USA;Universities;3
+244;702;Chicago State University;USA;Universities;3
+244;702;Xavier University;USA;Universities;3
+245;703;Humboldt State University;USA;Universities;3
+245;703;Mount Holyoke College;USA;Universities;3
+246;704;Indiana State University;USA;Universities;3
+246;704;University of San Diego;USA;Universities;2
+246;704;Occidental College;USA;Universities;3
+246;704;United States Naval Academy;USA;Universities;3
+247;705;Oberlin College;USA;Universities;3
+247;705;University of New Haven;USA;Universities;3
+247;705;The College of New Jersey;USA;Universities;3
+247;705;University of North Georgia;USA;Universities;3
+248;706;Swarthmore College;USA;Universities;2
+249;707;Trinity University;USA;Universities;3
+249;707;University of North Carolina, Wilmington;USA;Universities;2
+249;707;State University of New York, College at Oswego;USA;Universities;3
+250;708;College of the Holy Cross;USA;Universities;3
+250;708;Macalester College;USA;Universities;3
+250;708;Amherst College;USA;Universities;3
+250;708;Palo Alto University;USA;Universities;4
+250;708;Ball State University;USA;Universities;2
+251;709;Pomona College;USA;Universities;3
+251;709;Florida Polytechnic University;USA;Universities;3
+252;710;Bowdoin College;USA;Universities;3
+252;710;Illinois State University;USA;Universities;2
+252;710;Bates College;USA;Universities;3
+253;711;City University of New York, John Jay College of Criminal Justice;USA;Universities;3
+253;711;DePaul University;USA;Universities;2
+254;712;California State University, San Marcos;USA;Universities;3
+254;712;Tennessee Technological University;USA;Universities;3
+254;712;Furman University;USA;Universities;3
+255;713;Western Kentucky University;USA;Universities;3
+256;714;Western Illinois University;USA;Universities;3
+256;714;Texas A&M University, Corpus Christi;USA;Universities;2
+256;714;Bucknell University;USA;Universities;2
+256;714;California State Polytechnic University, Pomona;USA;Universities;3
+256;714;Morgan State University;USA;Universities;3
+257;715;University of Michigan, Flint;USA;Universities;3
+258;716;Texas Southern University;USA;Universities;3
+258;716;Bentley University;USA;Universities;3
+258;716;University of the Incarnate Word;USA;Universities;3
+258;716;Franklin & Marshall College;USA;Universities;4
+259;717;Pepperdine University;USA;Universities;3
+259;717;Kenyon College;USA;Universities;3
+260;718;Ithaca College;USA;Universities;3
+260;718;West Chester University of Pennsylvania;USA;Universities;3
+260;718;University of Richmond;USA;Universities;2
+260;718;Mercer University;USA;Universities;3
+261;719;New York City College of Technology;USA;Universities;4
+261;719;University of Wisconsin, Stevens Point;USA;Universities;3
+262;720;Grand Valley State University;USA;Universities;2
+263;721;Texas Christian University;USA;Universities;2
+263;721;Lamar University;USA;Universities;3
+263;721;Seton Hall University;USA;Universities;2
+263;721;James Madison University;USA;Universities;2
+264;722;Baruch College, City University of New York;USA;Universities;3
+264;722;Texas A&M University, Kingsville;USA;Universities;4
+265;723;University of Southern Maine;USA;Universities;3
+265;723;Southern Illinois University Edwardsville;USA;Universities;3
+265;723;Montclair State University;USA;Universities;2
+266;724;William Paterson University;USA;Universities;4
+266;724;Kennesaw State University;USA;Universities;2
+266;724;University of Texas, Tyler;USA;Universities;4
+266;724;University of Alaska, Anchorage;USA;Universities;3
+266;724;University of Tampa;USA;Universities;3
+267;725;Campbell University;USA;Universities;4
+268;726;Colgate University;USA;Universities;3
+268;726;Long Island University;USA;Universities;3
+268;726;Idaho State University;USA;Universities;3
+268;726;Elon University;USA;Universities;3
+268;726;California State University, Sacramento;USA;Universities;2
+268;726;Sam Houston State University;USA;Universities;3
+269;727;Tarleton State University;USA;Universities;4
+269;727;High Point University;USA;Universities;4
+269;727;Norfolk State University;USA;Universities;3
+270;728;Eastern Michigan University;USA;Universities;3
+270;728;Rhodes College;USA;Universities;4
+270;728;Embry-Riddle Aeronautical University *;USA;Universities;3
+270;728;California State University, San Bernardino;USA;Universities;3
+270;728;Claremont McKenna College;USA;Universities;4
+271;729;Southern University, Baton Rouge;USA;Universities;4
+271;729;Bard College;USA;Universities;3
+271;729;Fairfield University;USA;Universities;3
+271;729;Liberty University;USA;Universities;3
+271;729;University of North Florida;USA;Universities;3
+272;731;Loyola Marymount University;USA;Universities;3
+272;731;Central Washington University;USA;Universities;3
+273;732;Missouri State University;USA;Universities;3
+273;732;Vassar College;USA;Universities;3
+273;732;California State University, Dominguez Hills;USA;Universities;3
+273;732;AT Still University;USA;Universities;4
+273;732;University of Wisconsin - LaCrosse;USA;Universities;3
+273;732;Lafayette College;USA;Universities;3
+274;733;Salisbury University;USA;Universities;4
+274;733;Christopher Newport University;USA;Universities;4
+274;733;Coastal Carolina University;USA;Universities;3
+275;734;University of Northern Iowa;USA;Universities;3
+275;734;Providence College;USA;Universities;4
+276;735;Butler University;USA;Universities;3
+276;735;Texas A&M University at Galveston;USA;Universities;4
+277;736;University of Detroit Mercy;USA;Universities;3
+277;736;Youngstown State University;USA;Universities;4
+277;736;Denison University;USA;Universities;4
+278;737;California State University, Chico;USA;Universities;3
+278;737;Eastern Illinois University;USA;Universities;3
+278;737;Drake University;USA;Universities;3
+279;738;Claremont Graduate University;USA;Universities;3
+279;738;University of Nebraska, Kearney;USA;Universities;4
+279;738;Hobart and William Smith Colleges;USA;Universities;3
+279;738;Gonzaga University;USA;Universities;3
+280;739;University of Wisconsin, Oshkosh;USA;Universities;3
+280;739;California State University, East Bay;USA;Universities;3
+280;739;Weber State University;USA;Universities;3
+281;740;University of Wisconsin, Eau Claire;USA;Universities;2
+281;740;University of Central Arkansas;USA;Universities;3
+282;741;Suffolk University;USA;Universities;3
+282;741;Florida Gulf Coast University;USA;Universities;4
+282;741;Purdue University Northwest;USA;Universities;3
+282;741;Colorado College;USA;Universities;3
+282;741;Widener University;USA;Universities;3
+282;741;Northern Kentucky University;USA;Universities;4
+283;743;Babson College;USA;Universities;3
+284;744;Siena College;USA;Universities;4
+284;744;United States Military Academy at West Point;USA;Universities;3
+285;745;Valparaiso University;USA;Universities;4
+286;746;Loyola University Maryland;USA;Universities;4
+287;747;Washington and Lee University;USA;Universities;3
+287;747;Murray State University;USA;Universities;4
+288;748;University of St. Thomas;USA;Universities;3
+288;748;University of Houston - Downtown;USA;Universities;4
+288;748;Borough of Manhattan Community College;USA;Universities;3
+289;749;University of Houston, Clear Lake;USA;Universities;4
+290;750;University of West Florida;USA;Universities;3
+291;752;Bradley University;USA;Universities;3
+292;753;Quinnipiac University;USA;Universities;3
+292;753;Texas Woman's University;USA;Universities;3
+293;754;Manhattan College;USA;Universities;3
+293;754;Northeastern Illinois University;USA;Universities;4
+293;754;University of Hartford;USA;Universities;4
+293;754;Dickinson College;USA;Universities;3
+294;755;Adelphi University;USA;Universities;3
+295;756;University of Wisconsin, Whitewater;USA;Universities;4
+295;756;Seattle University;USA;Universities;3
+296;757;Indiana University of Pennsylvania;USA;Universities;3
+296;757;Metropolitan State University;USA;Universities;4
+297;758;Central Connecticut State University;USA;Universities;4
+297;758;Southern Connecticut State University;USA;Universities;4
+298;759;University of Baltimore;USA;Universities;4
+298;759;Western Carolina University;USA;Universities;3
+299;760;Utah Valley University;USA;Universities;3
+299;760;Walden University;USA;Universities;3
+300;761;Fairleigh Dickinson University;USA;Universities;3
+300;761;Troy University;USA;Universities;4
+301;762;Richard Stockton College of New Jersey;USA;Universities;4
+302;765;Minnesota State University, Mankato;USA;Universities;4
+303;766;California State University, Stanislaus;USA;Universities;4
+304;768;Samford University;USA;Universities;3
+305;770;Wheaton College;USA;Universities;3
+306;771;University of Portland;USA;Universities;4
+307;773;State University of West Georgia;USA;Universities;4
+308;774;University of Scranton;USA;Universities;4
+308;774;Indiana University - Purdue University at Fort Wayne;USA;Universities;4
+309;775;Eastern Kentucky University;USA;Universities;3
+310;776;University of Wisconsin, Green Bay;USA;Universities;4
+311;779;Sacred Heart University;USA;Universities;4
+312;781;Saint Joseph's University;USA;Universities;4
+313;786;Oklahoma State University, Oklahoma City;USA;Universities;4
+314;787;Radford University;USA;Universities;3
+315;789;Alabama A&M University;USA;Universities;4
+316;790;Bethel University;USA;Universities;4
+317;799;Penn State Erie, The Behrend College;USA;Universities;4
