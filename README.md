@@ -1,2 +1,2 @@
-# 19550-ARIASCLAUDIO-PANDAS-ENTREGAS
+# 19550-ARIASCLAUDIO-ENTREGAS
 ipynb Entrega de trabajos prácticos notebook Ciencia de Datos de CoderHouse
